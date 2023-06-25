@@ -2,7 +2,8 @@
 
 Oyun Geliştirme Atölye#8'den 6 haftalık eğitim sonrasında Cinsiyet Eşitsizliği konsepti üzerine geliştirdiğimiz "Cam Tavan" adlı bitirme projemizde kadınların bir günde yaşadığı zorlukları ele aldık.
 
-https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/8a7d76e4-6bac-46d3-a785-f0a44be69663
+https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/01831293-ea47-4fd8-ac10-e3567f2e61da
+
 
 ## I. Hafta Ödevi : Unity Modelleme
 
