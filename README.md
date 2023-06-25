@@ -4,13 +4,14 @@ Oyun Geliştirme Atölye#8'den 6 haftalık eğitim sonrasında Cinsiyet Eşits
 
 ## I. Hafta Ödevi : Unity üzerinden karakter çizimi
 
-![Ekran Görüntüsü (105)](https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/e03b3a32-3c4c-4488-81bd-3b5113926c64)
+![Ekran Görüntüsü (105)](https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/5d892fdb-a33f-40a4-87d5-bae406d66a85)
+
 
 ## II.Hafta Ödevi : Unity üzerinden dağ modelleme
 
-![Ekran Görüntüsü (11)](https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/3edefc90-02a3-4fda-9acb-8e26c2225f88)
+![Ekran Görüntüsü (11)](https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/114bc20a-4cee-45da-846a-13ad30b31360)
 
 
 ## III.Hafta Ödevi : Blender ile çekiç tasarımı
 
-![cekic](https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/bfe98c74-6a43-43b5-aee5-f6ec5847a94a)
+![cekic (1)](https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/92ac0d3e-222c-4e33-813c-f5bc4ca049ca)
