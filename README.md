@@ -24,5 +24,5 @@ https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/01831293-e
 <img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/cf5cdb4e-126c-40b6-813f-bc7c075231cf" width="400" height="300" />
 <img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/c5ced320-a34d-44c7-b981-a74c09b16485" alt="Ekran Görüntüsü" width="400" height="300" />
 </p>
-<p align="left">Mjolnir açıklanabilir var ama keloğlanın dişi versiyonuna yorum kapalı :)
+<p align="left">Mjolnir açıklanabilir ama keloğlanın dişi versiyonuna yorum kapalı :)
 
