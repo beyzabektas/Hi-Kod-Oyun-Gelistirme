@@ -16,7 +16,7 @@
 ## I. Hafta Ödevi : Unity Modelleme
 
 <div align="left">
-<img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/c0ccc518-a511-42c9-9d80-5a26e6f6cafa" alt="Power-Puff-Girls" width="400" height="200" />
+<img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/c0ccc518-a511-42c9-9d80-5a26e6f6cafa" alt="Power-Puff-Girls" width="600" height="200" />
 </div>
 
 
