@@ -29,8 +29,8 @@
 
 ## III.Hafta Ödevi : Blender Modelleme
 <p align="left">
-<img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/cf5cdb4e-126c-40b6-813f-bc7c075231cf" width="300" height="200" />
-<img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/c5ced320-a34d-44c7-b981-a74c09b16485" alt="Ekran Görüntüsü" width="300" height="200" />
+<img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/cf5cdb4e-126c-40b6-813f-bc7c075231cf" width="200" height="200" />
+<img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/c5ced320-a34d-44c7-b981-a74c09b16485" alt="Ekran Görüntüsü" width="200" height="200" />
 </p>
 <p align="left">Mjolnir açıklanabilir ama keloğlanın dişi versiyonuna yorum kapalı :)
 
