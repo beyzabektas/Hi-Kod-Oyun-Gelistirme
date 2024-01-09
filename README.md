@@ -23,7 +23,7 @@
 ## II.Hafta Ödevi : Unity Level-Design
 
 <div align="left">
-<img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/9bfbd7ef-b503-466f-bf9a-a64dd8b1bcad" width="400" height="200" />
+<img src="https://github.com/beyzabektas/Hi-Kod-Oyun-Gelistirme/assets/91256847/9bfbd7ef-b503-466f-bf9a-a64dd8b1bcad" width="600" height="200" />
 </div>
 
 
